@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">udemyTryMe</string>
+    <string name="try_me">Try ME!</string>
 </resources>
